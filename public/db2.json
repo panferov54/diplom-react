@@ -1,0 +1,344 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "imageUrl": "img-items/Achilles_20ATR_20Sport_202.jpeg",
+      "name": "Achilles ATR Sport 2 100W",
+      "types": [0],
+      "sizes": [18],
+      "price": 4395,
+      "category": 0,
+      "rating": 4
+    },
+      {
+      "id": 1,
+      "imageUrl": "img-items/Achilles_20ATR_20Sport_202.jpeg",
+      "name": "Achilles ATR Sport 2 100W",
+      "types": [0],
+      "sizes": [19],
+      "price": 5795,
+      "category": 0,
+      "rating": 4
+    },
+      {
+      "id": 2,
+      "imageUrl": "img-items/Achilles_20ATR_20Sport_202.jpeg",
+      "name": "Achilles ATR Sport 2 100W",
+      "types": [0],
+      "sizes": [20],
+      "price": 7395,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "img-items/ACHILLES_20AT.jpeg",
+      "name": "Achilles Desert Hawk A/T 111H XL",
+      "types": [0],
+      "sizes": [16],
+      "price": 3790,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imageUrl": "img-items/ACHILLES_20AT.jpeg",
+      "name": "Achilles Desert Hawk A/T 111H XL",
+      "types": [0],
+      "sizes": [17],
+      "price": 4490,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "imageUrl": "img-items/ACHILLES_20AT.jpeg",
+      "name": "Achilles Desert Hawk A/T 111H XL",
+      "types": [0],
+      "sizes": [18],
+      "price": 5290,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "imageUrl": "img-items/ACHILLES_20AT.jpeg",
+      "name": "Achilles Desert Hawk A/T 111H XL",
+      "types": [0],
+      "sizes": [19],
+      "price": 6790,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imageUrl": "img-items/Continental_IceContact_3_99-gar.jpeg",
+      "name": "Continental Ice Contact 3 95T",
+      "types": [1],
+      "sizes": [16],
+      "price": 3790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 7,
+      "imageUrl": "img-items/Continental_IceContact_3_99-gar.jpeg",
+      "name": "Continental Ice Contact 3 95T",
+      "types": [1],
+      "sizes": [17],
+      "price": 4790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 8,
+      "imageUrl": "img-items/Continental_IceContact_3_99-gar.jpeg",
+      "name": "Continental Ice Contact 3 95T",
+      "types": [1],
+      "sizes": [18],
+      "price": 5790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 9,
+      "imageUrl": "img-items/Continental_IceContact_3_99-gar.jpeg",
+      "name": "Continental Ice Contact 3 95T",
+      "types": [1],
+      "sizes": [19],
+      "price": 6790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 10,
+      "imageUrl": "img-items/Continental_IceContact_3_99-gar.jpeg",
+      "name": "Continental Ice Contact 3 95T",
+      "types": [1],
+      "sizes": [20],
+      "price": 7790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 11,
+      "imageUrl": "img-items/ContiSportContact-2.png",
+      "name": "Continental ContiSportContact 2 104Y",
+      "types": [1],
+      "sizes": [16],
+      "price": 3790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 12,
+      "imageUrl": "img-items/ContiSportContact-2.png",
+      "name": "Continental ContiSportContact 2 104Y",
+      "types": [1],
+      "sizes": [17],
+      "price": 4790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 13,
+      "imageUrl": "img-items/ContiSportContact-2.png",
+      "name": "Continental ContiSportContact 2 104Y",
+      "types": [1],
+      "sizes": [18],
+      "price": 5790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 14,
+      "imageUrl": "img-items/ContiSportContact-2.png",
+      "name": "Continental ContiSportContact 2 104Y",
+      "types": [1],
+      "sizes": [19],
+      "price": 6790,
+      "category": 1,
+      "rating": 7
+    },
+    {
+      "id": 16,
+      "imageUrl": "img-items/Pressa_20PL_2001.jpeg",
+      "name": "Presa PI-01 99T",
+      "types": [1],
+      "sizes": [16],
+      "price": 3790,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "imageUrl": "img-items/Pressa_20PL_2001.jpeg",
+      "name": "Presa PI-01 99T",
+      "types": [1],
+      "sizes": [17],
+      "price": 4790,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 18,
+      "imageUrl": "img-items/Pressa_20PL_2001.jpeg",
+      "name": "Presa PI-01 99T",
+      "types": [1],
+      "sizes": [18],
+      "price": 5790,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 19,
+      "imageUrl": "img-items/Pressa_20PL_2001.jpeg",
+      "name": "Presa PI-01 99T",
+      "types": [1],
+      "sizes": [19],
+      "price": 6790,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 20,
+      "imageUrl": "img-items/Pressa_20PL_2001.jpeg",
+      "name": "Presa PI-01 99T",
+      "types": [1],
+      "sizes": [20],
+      "price": 7790,
+      "category": 2,
+      "rating": 5
+    },
+    {
+      "id": 21,
+      "imageUrl": "img-items/Presa_20PI1_204.jpeg",
+      "name": "Presa PI-14 107R",
+      "types": [0],
+      "sizes": [16],
+      "price": 6040,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 22,
+      "imageUrl": "img-items/Presa_20PI1_204.jpeg",
+      "name": "Presa PI-14 107R",
+      "types": [0],
+      "sizes": [17],
+      "price": 7040,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 23,
+      "imageUrl": "img-items/Presa_20PI1_204.jpeg",
+      "name": "Presa PI-14 107R",
+      "types": [0],
+      "sizes": [18],
+      "price": 8040,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 24,
+      "imageUrl": "img-items/Presa_20PI1_204.jpeg",
+      "name": "Presa PI-14 107R",
+      "types": [0],
+      "sizes": [19],
+      "price": 9040,
+      "category": 2,
+      "rating": 6
+    },
+    {
+      "id": 25,
+      "imageUrl": "img-items/NK-241.png",
+      "name": "Кама НК 241",
+      "types": [0],
+      "sizes": [16],
+      "price": 2600,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 26,
+      "imageUrl": "img-items/NK-241.png",
+      "name": "Кама НК 241",
+      "types": [0],
+      "sizes": [17],
+      "price": 2601,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 27,
+      "imageUrl": "img-items/NK-241.png",
+      "name": "Кама НК 241",
+      "types": [0],
+      "sizes": [18],
+      "price": 2602,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 28,
+      "imageUrl": "img-items/NK-241.png",
+      "name": "Кама НК 241",
+      "types": [0],
+      "sizes": [19],
+      "price": 7600,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 29,
+      "imageUrl": "img-items/Kama_132_20_20BREEZE.jpeg",
+      "name": "Кама BREEZE-132 82T",
+      "types": [1],
+      "sizes": [16],
+      "price": 2222,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 30,
+      "imageUrl": "img-items/Kama_132_20_20BREEZE.jpeg",
+      "name": "Кама BREEZE-132 82T",
+      "types": [1],
+      "sizes": [17],
+      "price": 3333,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 31,
+      "imageUrl": "img-items/Kama_132_20_20BREEZE.jpeg",
+      "name": "Кама BREEZE-132 82T",
+      "types": [1],
+      "sizes": [18],
+      "price": 4444,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 32,
+      "imageUrl": "img-items/Kama_132_20_20BREEZE.jpeg",
+      "name": "Кама BREEZE-132 82T",
+      "types": [1],
+      "sizes": [18],
+      "price": 5555,
+      "category": 3,
+      "rating": 3
+    },
+    {
+      "id": 33,
+      "imageUrl": "img-items/Kama_132_20_20BREEZE.jpeg",
+      "name": "Кама BREEZE-132 82T",
+      "types": [1],
+      "sizes": [19],
+      "price": 6666,
+      "category": 3,
+      "rating": 3
+    }
+  ]
+}
