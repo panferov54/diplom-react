@@ -15,7 +15,8 @@ function LoadingBlock(){
         >
             <rect x="0" y="291" rx="3" ry="3" width="280" height="26" />
             <rect x="98" y="93" rx="0" ry="0" width="0" height="1" />
-            <circle cx="140" cy="140" r="140" />
+            {/*<circle cx="120" cy="120" r="80"  />*/}
+            <rect x="80" y="80" rx="6" ry="6" width="120" height="200" />
             <rect x="0" y="328" rx="6" ry="6" width="280" height="84" />
             <rect x="59" y="396" rx="6" ry="6" width="0" height="1" />
             <rect x="0" y="420" rx="6" ry="6" width="76" height="30" />

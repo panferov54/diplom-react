@@ -39,6 +39,9 @@ body {
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 3vw;
+    svg{
+      margin: 0 auto;
+    }
 
     @media (max-width: 1380px) {
       grid-template-columns: 1fr 1fr 1fr;
